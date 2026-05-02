@@ -1,0 +1,22 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2
+,LLM Model Registry,
+,Comprehensive Compilation of AI Large Language Models (Jan 2020 – May 2026),
+,,
+,Key Metrics,
+,,
+,Total Models,861
+,Labs Covered,135
+,Date Range,2020-01-01 to 2026-05-01
+,Open-Weight Models,164
+,API-Priced Models,131
+,,
+,Sheet Index,
+,,
+,Sheet Name,Description
+,LLM Registry,Complete model database with 15 columns (861 rows)
+,Cover,Overview and navigation
+,,
+,Notes,
+,"• Sorted by Date Released → AI Lab / Organization → Model Name
+• N/A indicates data not available from official sources
+• Benchmark scores: pass@1 / greedy decoding where available",
